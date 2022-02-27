@@ -60,12 +60,30 @@ Once you have a domain scoped out you can head over to [Google Domains][10] or a
 <!-- TODO -->
 <!-- Figure out if you need a dot-org domain or not -->
 
+### Create a GitHub organization
+
+Why do I need GitHub? For centralized storage of documentation, code, and other essential items. Used correctly, this tool will help you maintain up-to-date documentation which will only promote transparency throughout the organization.
+
+Do you already have a GitHub account?
+
+- Yes [click here](#i-do-have-a-github-account)
+- No [click here](#i-do-not-have-a-github-account)
+
+#### I do not have a GitHub account
+
+If you do not currently have a GitHub account, you will want to [create a GitHub account][11] first. Once you create a GitHub account, you can then [create the organization][12]. This should be done prior to getting the nonprofit GitHub organization set up, because you need a preexisting account or organization set up before you [request the nonprofit upgrade][13]. This upgrade will give you some extra features for your GitHub account/organization.
+
+#### I do have a GitHub account
+
+Log in to your GitHub account and [create the organization][12]. This should be done prior to getting the nonprofit GitHub organization set up, because you need a preexisting account or organization set up before you [request the nonprofit upgrade][13]. This upgrade will give you some extra features for your GitHub account/organization.
+
 ### Checklist
 
 - [ ] [Craft your mission](#crafting-your-mission)
 - [ ] [Create your nonprofit](#create-your-nonprofit)
 - [ ] [Create your branding](#create-your-branding)
 - [ ] [Create your domain](#create-your-domain)
+- [ ] [Create a GitHub organization](#create-a-github-organization)
 
 <!-- LINKS -->
 [1]: https://en.wikipedia.org/wiki/Nonprofit_organization "Link to nonprofit organization on Wikipedia"
@@ -78,3 +96,6 @@ Once you have a domain scoped out you can head over to [Google Domains][10] or a
 [8]: https://support.google.com/nonprofits/answer/1614602?hl=en&ref_topic=3247288 "Link to google nonprofit offerings"
 [9]: https://www.techsoup.org/ "Link to techsoup"
 [10]: https://domains.google.com/ "Link to google domains"
+[11]: https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home "Link to github account"
+[12]: https://github.com/account/organizations/new?coupon=&plan=team_free "Link to github org setup"
+[13]: https://support.github.com/contact/nonprofit "Link to github for nonprofits"
